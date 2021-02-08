@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "pixiv Inc.",
+    "url": "https://www.pixiv.co.jp/"
+  },
+  "dependencies": {
+    "com.pixiv.mux": "0.0.0"
+  },
+  "description": "Mux.Markup.UI is a wrapper of UnityEngine.UIModule for Mux.",
+  "displayName": "Mux.Markup.UI",
+  "name": "com.pixiv.mux.markup.ui",
+  "unity": "2020.2",
+  "version": "0.0.0"
+}

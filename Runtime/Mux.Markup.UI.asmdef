@@ -1,0 +1,11 @@
+{
+    "name": "Mux.Markup.UI",
+    "references": [
+        "Mux",
+        "Mux.Markup"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
